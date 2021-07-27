@@ -10,7 +10,7 @@ When the time comes for a new event to initiate the arduino will raise an alarm,
 which needs to be disarmed via button as indication of acknowledgement.<br />
 
 Schedules are saved on formatted txt files. See example..?<br />
-My default, the schedule loops on a weekly basis but deviations can be made by adding a specifically dated schedule in the SD card.<br />
+By default, the schedule loops on a weekly basis but deviations can be made by adding a specifically dated schedule in the SD card.<br />
 
 ### Contents
 As of now, only the arduino sketch, written in C.
