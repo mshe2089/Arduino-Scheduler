@@ -1,12 +1,12 @@
 # Arduino-Scheduler
 
 ### What's this?
-A physical scheduler device built on an arduino. I use it to allocate my school and personal weekly timetable and create some semblance of organization in my life.
+A physical scheduler device built on an arduino. I use it to follow my school and personal timetable and to create some semblance of organization in my life.
 
 ### Instructions
 Formatted schedules can be loaded into the device through a MicroSD card.<br />
 The scheduler will parse the schedule and display relevant information on a liquid crystal display.<br />
-When the time comes for a new event to initiate the arduino will raise an alarm, in the form of a flashing LED, <br />
+When the time comes for a new event to initiate the arduino will raise an alarm, in the form of a flashing LED (or anything really), <br />
 which needs to be disarmed via physical button as indication of acknowledgement.<br />
 
 Schedules are saved on formatted txt files. See example..?<br />
