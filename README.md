@@ -13,7 +13,5 @@ Schedules are saved on formatted txt files. See example..?<br />
 By default, the schedule loops on a weekly basis but deviations can be made by adding a specifically dated schedule in the SD card.<br />
 
 ### Contents
-As of now, only the arduino sketch, written in C.
+As of now, contains the arduino sketch written in C, the schematic and example SD files.
 Uses Petre Rodan's fantastic DS3231 library. https://github.com/rodan/ds3231
-
-Schematic coming soon™
