@@ -1,7 +1,7 @@
 # Arduino-Scheduler
 
 ### What's this?
-A physical scheduler device built on an arduino. I use it to follow my timetable and create some semblance of organization in my life.
+A physical scheduler device built on an arduino. I use it to follow my school and personal timetable and to create some semblance of organization in my life.
 
 ### Instructions
 Formatted schedules can be loaded into the device through a MicroSD card.<br />
