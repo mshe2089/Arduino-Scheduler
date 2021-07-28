@@ -1,0 +1,3 @@
+00:00 New day
+12:00 Midday
+24:00 End of day

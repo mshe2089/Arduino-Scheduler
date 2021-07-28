@@ -1,0 +1,5 @@
+00:00 New day
+12:00 Midday
+15:00 Important meeting
+18:00 Free time
+24:00 End of day

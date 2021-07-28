@@ -1,0 +1,30 @@
+<<<
+1 -> 7 .txt: schedules for each day of the week.
+specifically dated .txt: schedule to override a certain day
+>>>
+
+00:00 (Start time of event) New day (name of event)
+09:00 INFO9999 L
+
+<<<
+Scheduler will always display current task and the starting time of the next task
+
+At 9 am scheduler will flash alarm and display INFO9999 L (ecture). Note max message is 10 char long due to LCD.
+
+The LCD is formatted as follows:
+[Date] [Day of week] [Time] 
+[Current event] [Next event start]
+
+LCD will display the following at 26/07 8:59am sharp:
+ 26/07 MON 08:59
+   New day 09:00
+
+LCD will display the following at 26/07 9am sharp:
+ 26/07 MON 09:00
+INFO9999 L 11:00
+>>>
+
+11:00 Free time
+13:00 INFO9999 T
+16:00 Free time
+24:00 End of day
